@@ -16,6 +16,7 @@ div.ex {
 </style>
 <body>
 	<h1>Welcome to Cloudblitz</h1> </br>
+	<h1>Welcome to Tejas Univercity </h1> </br>
 	<h2>Student admission form </h2>
 	<div class="ex">
 		<form action="registrationController" method="post">
